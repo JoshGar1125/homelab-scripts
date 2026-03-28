@@ -1,6 +1,6 @@
 {
     "hostname": "homelab",
-    "ip": "192.168.8.110",
+    "ip": "192.168.x.x",
     "services": [
         "pihole",
         "docker"
