@@ -1,0 +1,16 @@
+# This is a comment line - should be skipped
+doubleclick.net
+googleadservices.com
+
+# Another comment
+ads.facebook.com
+tracking.example.com
+
+scorecardresearch.com
+# skip this too
+outbrain.com
+
+amazon-adsystem.com
+pubads.g.doubleclick.net
+
+quantserve.com
